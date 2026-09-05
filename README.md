@@ -5,3 +5,4 @@ Written project reports for Mohid Ali's personal data science projects, linked f
 - `uhi_pakistan_report.pdf` — Pakistan UHI Intelligence Platform
 - `karachi_traffic_report.pdf` — Urban Mobility Intelligence Platform, Karachi
 - `glacier_mass_balance_report.pdf` — Himalayan Glacier Mass Balance Nowcasting (PINN)
+- `10pearls_aqi_report.pdf` — Serverless End-to-End ML Framework for 3-Day AQI Forecasting Across Five Pakistani Cities (10Pearls Internship)
